@@ -1,1 +1,1 @@
-# Battleship-Game---JS
+# Battleship-Game-JS
